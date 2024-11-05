@@ -11,3 +11,13 @@
 'git push' : Crée une demande de pull request pour déposer le code local sur la branche principale 
 
 'git checkout nom_de_branche' : Permet de changer de branche 
+
+## Pour créer une branche : 
+
+'git checkout -b nom_de_ma_branch_nouvelle'
+
+## Pour supprimer une branche 
+
+'git branch -d nom_de_ma_branch_local'
+
+## POUR UTILISER LE TERMINAL : IL SE PEUT QUE LE TERMINAL DE VSCODE NE PERMETTE PAS D'UTILISER LES COMMANDES, POUR PALLIER À ÇA, OUVRIR LE TERMINAL DEPUIS LE DOSSIER CLONÉ GITHUB
